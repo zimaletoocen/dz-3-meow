@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\bin\Debug\дзшкастумаковым.exe.config
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\bin\Debug\дзшкастумаковым.exe
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\bin\Debug\дзшкастумаковым.pdb
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\obj\Debug\дзшкастумаковым.csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\obj\Debug\дзшкастумаковым.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\obj\Debug\дзшкастумаковым.exe
+C:\Users\Vesna\Desktop\дз номер три\дзшкастумаковым\obj\Debug\дзшкастумаковым.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vesna\Desktop\дз номер три\задачки\bin\Debug\задачки.exe.config
+C:\Users\Vesna\Desktop\дз номер три\задачки\bin\Debug\задачки.exe
+C:\Users\Vesna\Desktop\дз номер три\задачки\bin\Debug\задачки.pdb
+C:\Users\Vesna\Desktop\дз номер три\задачки\obj\Debug\задачки.csproj.AssemblyReference.cache
+C:\Users\Vesna\Desktop\дз номер три\задачки\obj\Debug\задачки.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\дз номер три\задачки\obj\Debug\задачки.exe
+C:\Users\Vesna\Desktop\дз номер три\задачки\obj\Debug\задачки.pdb
